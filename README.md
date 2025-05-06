@@ -1,4 +1,3 @@
-# knime-medical-cost-prediction
 # Predicting Medical Insurance Costs with KNIME
 
 ## 📌 Project Overview
